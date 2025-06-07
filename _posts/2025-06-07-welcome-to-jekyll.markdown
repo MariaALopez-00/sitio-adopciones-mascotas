@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "¡Ayúdanos a estar frescos!"
 date:   2025-06-07 14:40:09 -0600
 categories: jekyll update
