@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: "¡Jornada de adopción!"
 date:   2025-06-07 15:13:09 -0600
 categories: jekyll update
 ---
